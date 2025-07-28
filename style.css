@@ -1,0 +1,17 @@
+table ,th ,td{
+border:1px solid black;
+border-collapse:collapse;}
+table{
+width:70%;}
+input{
+width:100%;
+cellspacing:0px;}
+img{
+width:150px;
+height:150px;
+padding-left:200px;}
+p{
+padding-right:300px;}
+h4{
+padding-right:300px;}
+
